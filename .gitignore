@@ -1,0 +1,23 @@
+.bundle
+.config
+tmp
+.ruby-version
+.irb-history
+
+# Can appear when unzipping .ipas
+Payload
+SwiftSupport
+
+# briar resign product
+resigned
+
+# JetBrains
+.idea
+
+# MacOS
+.DS_Store
+__MACOSX
+
+# emacs
+(.*/)?\#[^/]*\#$
+
