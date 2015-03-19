@@ -5,11 +5,12 @@ The briar gem is a Calabash iOS workflow tool.  Once you have assembled the nece
 ### Quick Instructions
 
 ```
-1. $ cd resigning-example                   # The working directory.
-2. $ bundle install
-3. Assemble the code signing assets.
-4. $ {vim | emacs | open -a TextEdit} .env  # Edit to match your environment
-5. $ bundle exec briar resign your.ipa
+1. $ git clone git@github.com:jmoody/briar-resigning-example.git
+2. $ cd briar-resigning-example                   # The working directory.
+3. $ bundle install
+4. Assemble the code signing assets.
+5. $ {vim | emacs | open -a TextEdit} .env        # Edit to match your environment
+6. $ bundle exec briar resign your.ipa
 ```
 
 ### Assembling the Assets
