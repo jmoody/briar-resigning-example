@@ -1,6 +1,8 @@
 ## Resigning with briar
 
-The briar gem is a Calabash iOS workflow tool.  Once you have assembled the necessary assets, you will be able to resign almost any .ipa.
+The briar gem is a Calabash iOS workflow tool. 
+
+Once you have assembled the necessary assets, you will be able to resign almost any .ipa.
 
 ### Quick Instructions
 
@@ -109,6 +111,3 @@ Copy the .ipa you want to resign to the `resigning-example` directory.
 ### Resigning
 
 See the Quick Instructions at the top of this file.
-
-
- 
